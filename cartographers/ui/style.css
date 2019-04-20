@@ -1,0 +1,85 @@
+#maincontent{
+	/*This will overflow and scroll*/
+	/*Should display the same size image on all
+	  screen sizes (users will scroll)*/
+	position: relative;
+	overflow-x: scroll;
+	
+	background-color: gainsboro;
+}
+#building-info{
+	position: absolute;
+	left: 40%;
+	right: 40%;
+	width: 20%;
+	min-width: 100px;
+	height: 50%;
+	overflow-y: scroll;
+
+}
+
+
+#close-icon{
+	transition: color 0.5s;
+}
+.ui.secondary.menu{
+	margin-bottom: 0px;
+	padding-left: 50px;
+	padding-right: 55px;
+	background-color: #f5f5f5;
+
+	position: fixed;
+	width: 101%;
+	z-index: 11;
+}
+#title{
+	padding-top: 5px;
+	padding-right: 20px;
+	font-size: 20pt;
+} 
+
+#viewtxt{
+	padding-top: 10px;
+}
+
+a{
+	background-color: gainsboro !important;
+	padding: 5px !important;
+
+}
+
+#show-image{
+	padding-right: 5px;
+	transition: color 0.5s;
+}
+
+#bld-img{
+	padding-top: 0px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: 33px;
+}
+
+#img-left{
+	padding-left: 0px;
+	padding-right: 50%;
+}
+#img-right{
+	padding-right: 0px;
+	padding-left: 91%;
+}
+#img-change{
+	position: absolute;
+	width: 100%;
+}
+
+#searchRes{
+	position: fixed;
+	right: 40px;
+	top: 30px;
+	display: none;
+}
+
+#searchRes li{
+	list-style: none !important;
+}
