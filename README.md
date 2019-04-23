@@ -11,3 +11,7 @@ The new map adds interactivity to the existing one, so that a user can click on 
 
 
 This project uses jQuery and Semantic UI in addition to HTML/CSS/JavaScript.
+
+<b>Contributors</b><br>
+Jacob Pugsley<br>
+Jenee Erickson<br>
