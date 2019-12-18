@@ -1,3 +1,7 @@
+body{
+	background-color: #d4d4d50d;
+}
+
 img{
 	max-width: 400px;
 	max-height: 400px;
@@ -21,4 +25,29 @@ img{
 
 a.item{
 	font-size: 18px;
+}
+
+table{
+	width: 75%;
+	margin: auto;
+	margin-top: 5%;
+}
+
+td{
+	width: 50%;
+}
+
+#mainHeader{
+	text-align: left;
+	font-size: 18px;
+}
+
+#contact{
+	text-align: right;
+	font-size: 18px;
+}
+
+#contact h2{
+	margin-bottom: 0px;
+
 }
