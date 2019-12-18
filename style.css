@@ -1,0 +1,20 @@
+img{
+	max-width: 400px;
+	max-height: 400px;
+
+	margin-right: 5px;
+}
+
+.imageDiv{
+	width: 90%;
+	margin-left: 5%;
+
+	padding-left: 10%;
+}
+
+.ui.segment{
+	font-size: 18px;
+
+	width: 75%;
+	margin: auto;
+}
