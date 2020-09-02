@@ -55,3 +55,7 @@ td{
 .LI-view-profile{
 	float: left;
 }
+
+.LI-badge-container.horizontal.light .LI-name a {
+	font-size: 23px !important;
+}
